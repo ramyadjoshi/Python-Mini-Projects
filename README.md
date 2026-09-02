@@ -94,7 +94,7 @@ Text editor or IDE (VS Code, PyCharm, or similar)
 Installation
 
 Clone the repository:
-bashgit clone https://github.com/yourusername/python-practice-projects.git
+bashgit clone https://github.com/ramyadjoshi/Python-Mini-Projects.git
 cd python-practice-projects
 
 Create a virtual environment (recommended):
